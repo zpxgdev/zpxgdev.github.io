@@ -11,6 +11,7 @@ permalink: /
 - [vfx]({{ '/projects/vfx-system/' | relative_url }})
 - [grass]({{ '/projects/procedural-grass/' | relative_url }})
 - [天空大气、体积云、TOD]({{ '/projects/tod/' | relative_url }})
+- [虚拟几何系统]({{ '/projects/vgeo/' | relative_url }})
 - [distance field]({{ '/projects/distance-field/' | relative_url }})
 - [场景数据]({{ '/projects/scene-data/' | relative_url }})
 - [pathtracing]({{ '/projects/pathtracing/' | relative_url }})
